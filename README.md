@@ -4,8 +4,8 @@ Here’s a professional `README.md` for the **get_next_line** project at 1337 Sc
 
 
 # Get Next Line - File Reading Made Easy  
+![Get Next Line Banner](https://github.com/user-attachments/assets/e8935e0c-2d46-4f31-b44a-3730b81a00db)
 
-![Get Next Line Banner](https://via.placeholder.com/1200x400?text=Get+Next+Line)  
 *A project to master efficient file reading in C*  
 
 ---
@@ -36,7 +36,7 @@ Here’s a professional `README.md` for the **get_next_line** project at 1337 Sc
 
 ```c  
 char *get_next_line(int fd);  
- 
+```  
 
 ---
 
@@ -152,7 +152,3 @@ This project is intended for educational purposes and is subject to the rules an
 ## Acknowledgments  
 
 Special thanks to 1337 School for their peer-to-peer learning environment and the challenging projects that help us grow as developers.  
-
----
-
-```
