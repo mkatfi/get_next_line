@@ -1,4 +1,4 @@
-Here’s a professional `README.md` for the **get_next_line** project at 1337 School. It highlights the project's objectives, usage, and implementation details:
+Here’s a the **get_next_line** project at 1337 School.
 
 ---
 
